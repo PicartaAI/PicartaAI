@@ -2,12 +2,6 @@
 
 Picarta.ai is an image location search engine that utilizes Artificial Intelligence to determine where a photo has been taken in the world. Our mission is to verify photo locations worldwide, ensuring authenticity, countering misinformation, and offering reliable geolocation solutions.
 
-## Features
-
-- **AI-powered Geolocation:** 🧠 Our advanced AI technology helps accurately determine the location where a photo was taken.
-
-- **Global Coverage:** 🌐 We provide geolocation solutions for photos from around the world, contributing to a more reliable and authentic digital environment.
-
 ## How it Works
 
 1. **Upload Image:** 📤 Users can upload an image to our platform or they can use Our [API](https://picarta.ai/api).
@@ -15,6 +9,12 @@ Picarta.ai is an image location search engine that utilizes Artificial Intellige
 2. **AI Analysis:** 🔍 Our AI system analyzes the image to identify key features and determine the likely location.
 
 3. **Location Verification:** ✅ The result is presented, indicating the potential location of the photo along with a confidence score.
+
+## Features
+
+- **AI-powered Geolocation:** 🧠 Our advanced AI technology helps accurately determine the location where a photo was taken.
+
+- **Global Coverage:** 🌐 We provide geolocation solutions for photos from around the world, contributing to a more reliable and authentic digital environment.
 
 ## Mission Statement
 
